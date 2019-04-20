@@ -1,0 +1,15 @@
+Package: RNASeqPrep
+Type: Package
+Title: Determines minimum gene expression parameters and estimates costs for RNA-Seq analysis
+Version: 0.1.0
+Author: Kevin Stevenson
+Maintainer: Kevin Stevenson <kevin71@mail.usf.edu>
+Description: This package contains functions for RNA-Seq gene expression analysis. Includes functions to calculate if 
+    gene of interest meets the minimum 50 RPKM threshold value for it to be considered expressed. Also contains a function
+    for accurate single-cell RNA-Seq gene expression analysis and cell type identification criteria. A RNA-Seq run cost
+    estimation function based on number of lanes, conditions, and replicates is included in addition to datasets to use 
+    to tests the functions. 
+Depends: R(>= 3.5.2), devtools, roxygen2
+License: GNU
+Encoding: UTF-8
+LazyData: true
