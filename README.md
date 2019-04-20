@@ -16,7 +16,9 @@ RNA-Seq experimental runs
 ## Datasets: 3 provided for the user to test the functions with various conditions
 
 *RNA-Seq aligned reads file with gene counts mapped across more than 23,000 genes 
+
 *Table with averaged total mRNA reads per cell and number of cell samples sequenced for single-cell RNA-Seq
+
 *Table with example experimental runs using various numbers of lanes, replicates, and condtions
 
 ## References:
